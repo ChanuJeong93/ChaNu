@@ -14,6 +14,8 @@
 	rel="stylesheet">
 <link href="https://hangeul.pstatic.net/hangeul_static/css/nanum-square.css" rel="stylesheet">
 
+<link rel="shortcut icon" href="./images/favicon.ico">
+
 <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
 <link rel="stylesheet" href="css/animate.css">
 
@@ -38,7 +40,7 @@
 </head>
 <body>
 
-<jsp:include page="./inc/top.jsp"/>
+<jsp:include page="../inc/top.jsp"/>
 
 
 
@@ -114,7 +116,7 @@
 
 	</section>
 
-<jsp:include page="./inc/bottom.jsp"/>
+<jsp:include page="../inc/bottom.jsp"/>
 
 	<!-- loader -->
 	<div id="ftco-loader" class="show fullscreen">
